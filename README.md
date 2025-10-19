@@ -29,7 +29,7 @@
 
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-FF7A00?logo=apachehadoop&logoColor=white" />
+  
   
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black" />
