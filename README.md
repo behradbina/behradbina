@@ -47,3 +47,4 @@
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=behradbina&layout=compact&theme=radical) 
+<img src="https://github-readme-stats.vercel.app/api?username=behradbina&show_icons=true&theme=dark" />
