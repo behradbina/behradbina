@@ -1,5 +1,3 @@
-# Hi, I'm Behrad 👋  
-
 🎓 **Bachelor's Student in Computer Engineering** at University of Tehran  
 🔬 **Research Assistant | Teacher Assistant**  
 
