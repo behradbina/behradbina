@@ -23,18 +23,13 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
 
   <img src="https://img.shields.io/badge/ChromaDB-6E56CF?logo=chromadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white" />  
   
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black" />
 
   <img src="https://img.shields.io/badge/LangChain-00B050?logo=langchain&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
   
