@@ -1,8 +1,4 @@
-🎓 **Bachelor's Student in Computer Engineering** at University of Tehran  
-🔬 **Research Assistant | Teacher Assistant**  
-
 **Gmail:** **behradbina@gmail.com**  
-**LinkedIn:** [Behrad Binaei-Haghighi](https://www.linkedin.com/in/behrad-binaei-haghighi/)
 **Google Scholar:** [Publications](https://scholar.google.com/citations?hl=en&user=oW6HCqIAAAAJ&view_op=list_works)
 
 
